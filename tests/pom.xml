@@ -33,7 +33,6 @@
         <dependency>
             <groupId>com.oracle.labs.olcut</groupId>
             <artifactId>olcut-core</artifactId>
-            <version>${olcut.version}</version>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
@@ -108,7 +107,6 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
-                <version>3.2.0</version>
                 <configuration>
                     <archive>
                         <manifestEntries>
