@@ -55,6 +55,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>tribuo-classification-xgboost</artifactId>
+              <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>

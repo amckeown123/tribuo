@@ -87,6 +87,7 @@
         <dependency>
             <groupId>org.tribuo</groupId>
             <artifactId>tribuo-classification-xgboost</artifactId>
+              <version>${project.version}</version>
             <scope>test</scope>
         </dependency>
         <dependency>
